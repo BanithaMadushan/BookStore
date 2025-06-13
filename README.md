@@ -159,7 +159,6 @@ No environment variables required unless connecting to a remote API or customizi
 ## 👨‍💻 Developer
 
 **Banitha Madushan Priyankara**  
-Student ID: `M20001004005`
 
 ---
 
